@@ -1,0 +1,2 @@
+statsh: rkonku2_statsh.cpp
+	g++ -o statsh rkonku2_statsh.cpp
